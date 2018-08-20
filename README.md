@@ -1,8 +1,9 @@
 // three test
 Run command:
   /
-  cmake .
   
+  cmake .
+
   make
 
 Run google tests:
