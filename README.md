@@ -2,6 +2,7 @@
 Run command:
   /
   cmake .
+  
   make
 
 Run google tests:
