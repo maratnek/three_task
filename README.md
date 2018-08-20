@@ -1,5 +1,5 @@
 // three test
-Commant:
+Run command:
   /
   cmake .
   make
