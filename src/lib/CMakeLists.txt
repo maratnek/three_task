@@ -5,7 +5,7 @@ project(MyLib)
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++1y -Wall")
 
 set(SOURCE_LIB
-    lib.cpp
+    task1.cpp
   )
 
 add_library(lib STATIC ${SOURCE_LIB})
