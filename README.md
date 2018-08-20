@@ -1,1 +1,8 @@
-configuration for the create c++ project
+// three test
+Commant:
+  /
+  cmake .
+  make
+
+Run google tests:
+  bin/build
